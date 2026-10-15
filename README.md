@@ -10,7 +10,7 @@ Regular farming too easy/old. This pack spices up farming!
 
 This repository has multiple branches for each platform this Minecraft mod supports.
 
-- [`datapack`](./tree/datapack)
+- [`datapack`](https://github.com/lpsmods/advanced-farming/tree/datapack)
 
 ## Mod Data
 

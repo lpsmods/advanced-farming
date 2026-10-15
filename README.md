@@ -6,6 +6,12 @@
 
 Regular farming too easy/old. This pack spices up farming!
 
+## Contributing
+
+This repository has multiple branches for each platform this Minecraft mod supports.
+
+- [`datapack`](./tree/datapack)
+
 ## Mod Data
 
 | Key       | Value              |
